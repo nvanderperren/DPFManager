@@ -18,3 +18,4 @@ temp/
 *.log
 dpf_manager.iml
 .vscode
+*.DS_Store
